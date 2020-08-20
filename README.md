@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Published in [jimmyreact-search-movies.surge.sh]
+Published in [jimmyreact-search-movies.surge.sh](jimmyreact-search-movies.surge.sh)
 
 ## Available Scripts
 
